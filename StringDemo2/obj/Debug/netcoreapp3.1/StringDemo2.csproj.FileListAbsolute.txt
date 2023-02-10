@@ -1,0 +1,13 @@
+C:\Dev\Week3\StringDemo2\bin\Debug\netcoreapp3.1\StringDemo2.exe
+C:\Dev\Week3\StringDemo2\bin\Debug\netcoreapp3.1\StringDemo2.deps.json
+C:\Dev\Week3\StringDemo2\bin\Debug\netcoreapp3.1\StringDemo2.runtimeconfig.json
+C:\Dev\Week3\StringDemo2\bin\Debug\netcoreapp3.1\StringDemo2.runtimeconfig.dev.json
+C:\Dev\Week3\StringDemo2\bin\Debug\netcoreapp3.1\StringDemo2.dll
+C:\Dev\Week3\StringDemo2\bin\Debug\netcoreapp3.1\StringDemo2.pdb
+C:\Dev\Week3\StringDemo2\obj\Debug\netcoreapp3.1\StringDemo2.AssemblyInfoInputs.cache
+C:\Dev\Week3\StringDemo2\obj\Debug\netcoreapp3.1\StringDemo2.AssemblyInfo.cs
+C:\Dev\Week3\StringDemo2\obj\Debug\netcoreapp3.1\StringDemo2.csproj.CoreCompileInputs.cache
+C:\Dev\Week3\StringDemo2\obj\Debug\netcoreapp3.1\StringDemo2.dll
+C:\Dev\Week3\StringDemo2\obj\Debug\netcoreapp3.1\StringDemo2.pdb
+C:\Dev\Week3\StringDemo2\obj\Debug\netcoreapp3.1\StringDemo2.genruntimeconfig.cache
+C:\Dev\Week3\StringDemo2\obj\Debug\netcoreapp3.1\StringDemo2.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Dev\Week3\ArrayDemo2\bin\Debug\netcoreapp3.1\ArrayDemo2.exe
+C:\Dev\Week3\ArrayDemo2\bin\Debug\netcoreapp3.1\ArrayDemo2.deps.json
+C:\Dev\Week3\ArrayDemo2\bin\Debug\netcoreapp3.1\ArrayDemo2.runtimeconfig.json
+C:\Dev\Week3\ArrayDemo2\bin\Debug\netcoreapp3.1\ArrayDemo2.runtimeconfig.dev.json
+C:\Dev\Week3\ArrayDemo2\bin\Debug\netcoreapp3.1\ArrayDemo2.dll
+C:\Dev\Week3\ArrayDemo2\bin\Debug\netcoreapp3.1\ArrayDemo2.pdb
+C:\Dev\Week3\ArrayDemo2\obj\Debug\netcoreapp3.1\ArrayDemo2.AssemblyInfoInputs.cache
+C:\Dev\Week3\ArrayDemo2\obj\Debug\netcoreapp3.1\ArrayDemo2.AssemblyInfo.cs
+C:\Dev\Week3\ArrayDemo2\obj\Debug\netcoreapp3.1\ArrayDemo2.csproj.CoreCompileInputs.cache
+C:\Dev\Week3\ArrayDemo2\obj\Debug\netcoreapp3.1\ArrayDemo2.dll
+C:\Dev\Week3\ArrayDemo2\obj\Debug\netcoreapp3.1\ArrayDemo2.pdb
+C:\Dev\Week3\ArrayDemo2\obj\Debug\netcoreapp3.1\ArrayDemo2.genruntimeconfig.cache
+C:\Dev\Week3\ArrayDemo2\obj\Debug\netcoreapp3.1\ArrayDemo2.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Dev\Week3\TestKey_to_Value\bin\Debug\netcoreapp3.1\TestKey_to_Value.exe
+C:\Dev\Week3\TestKey_to_Value\bin\Debug\netcoreapp3.1\TestKey_to_Value.deps.json
+C:\Dev\Week3\TestKey_to_Value\bin\Debug\netcoreapp3.1\TestKey_to_Value.runtimeconfig.json
+C:\Dev\Week3\TestKey_to_Value\bin\Debug\netcoreapp3.1\TestKey_to_Value.runtimeconfig.dev.json
+C:\Dev\Week3\TestKey_to_Value\bin\Debug\netcoreapp3.1\TestKey_to_Value.dll
+C:\Dev\Week3\TestKey_to_Value\bin\Debug\netcoreapp3.1\TestKey_to_Value.pdb
+C:\Dev\Week3\TestKey_to_Value\obj\Debug\netcoreapp3.1\TestKey_to_Value.AssemblyInfoInputs.cache
+C:\Dev\Week3\TestKey_to_Value\obj\Debug\netcoreapp3.1\TestKey_to_Value.AssemblyInfo.cs
+C:\Dev\Week3\TestKey_to_Value\obj\Debug\netcoreapp3.1\TestKey_to_Value.csproj.CoreCompileInputs.cache
+C:\Dev\Week3\TestKey_to_Value\obj\Debug\netcoreapp3.1\TestKey_to_Value.dll
+C:\Dev\Week3\TestKey_to_Value\obj\Debug\netcoreapp3.1\TestKey_to_Value.pdb
+C:\Dev\Week3\TestKey_to_Value\obj\Debug\netcoreapp3.1\TestKey_to_Value.genruntimeconfig.cache

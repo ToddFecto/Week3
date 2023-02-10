@@ -1,0 +1,12 @@
+C:\Dev\Week3\ClassDemo2\obj\Debug\netcoreapp3.1\ClassDemo2.AssemblyInfoInputs.cache
+C:\Dev\Week3\ClassDemo2\obj\Debug\netcoreapp3.1\ClassDemo2.AssemblyInfo.cs
+C:\Dev\Week3\ClassDemo2\obj\Debug\netcoreapp3.1\ClassDemo2.csproj.CoreCompileInputs.cache
+C:\Dev\Week3\ClassDemo2\bin\Debug\netcoreapp3.1\ClassDemo2.exe
+C:\Dev\Week3\ClassDemo2\bin\Debug\netcoreapp3.1\ClassDemo2.deps.json
+C:\Dev\Week3\ClassDemo2\bin\Debug\netcoreapp3.1\ClassDemo2.runtimeconfig.json
+C:\Dev\Week3\ClassDemo2\bin\Debug\netcoreapp3.1\ClassDemo2.runtimeconfig.dev.json
+C:\Dev\Week3\ClassDemo2\bin\Debug\netcoreapp3.1\ClassDemo2.dll
+C:\Dev\Week3\ClassDemo2\bin\Debug\netcoreapp3.1\ClassDemo2.pdb
+C:\Dev\Week3\ClassDemo2\obj\Debug\netcoreapp3.1\ClassDemo2.dll
+C:\Dev\Week3\ClassDemo2\obj\Debug\netcoreapp3.1\ClassDemo2.pdb
+C:\Dev\Week3\ClassDemo2\obj\Debug\netcoreapp3.1\ClassDemo2.genruntimeconfig.cache

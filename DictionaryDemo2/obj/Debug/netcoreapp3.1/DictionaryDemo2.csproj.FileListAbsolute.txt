@@ -1,0 +1,13 @@
+C:\Dev\Week3\DictionaryDemo2\bin\Debug\netcoreapp3.1\DictionaryDemo2.exe
+C:\Dev\Week3\DictionaryDemo2\bin\Debug\netcoreapp3.1\DictionaryDemo2.deps.json
+C:\Dev\Week3\DictionaryDemo2\bin\Debug\netcoreapp3.1\DictionaryDemo2.runtimeconfig.json
+C:\Dev\Week3\DictionaryDemo2\bin\Debug\netcoreapp3.1\DictionaryDemo2.runtimeconfig.dev.json
+C:\Dev\Week3\DictionaryDemo2\bin\Debug\netcoreapp3.1\DictionaryDemo2.dll
+C:\Dev\Week3\DictionaryDemo2\bin\Debug\netcoreapp3.1\DictionaryDemo2.pdb
+C:\Dev\Week3\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.AssemblyInfoInputs.cache
+C:\Dev\Week3\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.AssemblyInfo.cs
+C:\Dev\Week3\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.csproj.CoreCompileInputs.cache
+C:\Dev\Week3\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.dll
+C:\Dev\Week3\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.pdb
+C:\Dev\Week3\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.genruntimeconfig.cache
+C:\Dev\Week3\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.csprojAssemblyReference.cache

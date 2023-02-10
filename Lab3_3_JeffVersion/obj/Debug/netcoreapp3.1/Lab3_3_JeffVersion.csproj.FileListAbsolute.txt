@@ -1,0 +1,13 @@
+C:\Dev\Week3\Lab3_3_JeffVersion\obj\Debug\netcoreapp3.1\Lab3_3_JeffVersion.AssemblyInfoInputs.cache
+C:\Dev\Week3\Lab3_3_JeffVersion\obj\Debug\netcoreapp3.1\Lab3_3_JeffVersion.AssemblyInfo.cs
+C:\Dev\Week3\Lab3_3_JeffVersion\obj\Debug\netcoreapp3.1\Lab3_3_JeffVersion.csproj.CoreCompileInputs.cache
+C:\Dev\Week3\Lab3_3_JeffVersion\bin\Debug\netcoreapp3.1\Lab3_3_JeffVersion.exe
+C:\Dev\Week3\Lab3_3_JeffVersion\bin\Debug\netcoreapp3.1\Lab3_3_JeffVersion.deps.json
+C:\Dev\Week3\Lab3_3_JeffVersion\bin\Debug\netcoreapp3.1\Lab3_3_JeffVersion.runtimeconfig.json
+C:\Dev\Week3\Lab3_3_JeffVersion\bin\Debug\netcoreapp3.1\Lab3_3_JeffVersion.runtimeconfig.dev.json
+C:\Dev\Week3\Lab3_3_JeffVersion\bin\Debug\netcoreapp3.1\Lab3_3_JeffVersion.dll
+C:\Dev\Week3\Lab3_3_JeffVersion\bin\Debug\netcoreapp3.1\Lab3_3_JeffVersion.pdb
+C:\Dev\Week3\Lab3_3_JeffVersion\obj\Debug\netcoreapp3.1\Lab3_3_JeffVersion.dll
+C:\Dev\Week3\Lab3_3_JeffVersion\obj\Debug\netcoreapp3.1\Lab3_3_JeffVersion.pdb
+C:\Dev\Week3\Lab3_3_JeffVersion\obj\Debug\netcoreapp3.1\Lab3_3_JeffVersion.genruntimeconfig.cache
+C:\Dev\Week3\Lab3_3_JeffVersion\obj\Debug\netcoreapp3.1\Lab3_3_JeffVersion.csprojAssemblyReference.cache
